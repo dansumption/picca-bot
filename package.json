@@ -1,0 +1,19 @@
+{
+  "name": "picca-bot",
+  "version": "0.0.1",
+  "description": "Picca game slackbot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansumption/picca-bot.git"
+  },
+  "author": "Dan Sumption <dan@sumption.org> (http://sumption.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dansumption/picca-bot/issues"
+  },
+  "homepage": "https://github.com/dansumption/picca-bot#readme"
+}
